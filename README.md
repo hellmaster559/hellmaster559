@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 ## I'm Yash Patel - aka [hellmaster559](https://github.com/hellmaster559)
 
-## I'm a Student,Developer & Pentesters!
+## I'm a Student, Developer, Pentesters, & Also A Gamer✌️ !
 
 - 🔭 I’m currently working on [Auto IP Blocking In Firewall](https://github.com/hellmaster559/ip-reputation-and-ip-block-for-firewall)
 - 🌱 I’m currently learning basically everything 🤭
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/YPatel559
 [2]: https://www.linkedin.com/in/yash-patel-163333181/
 
+# Languages and Tools:
