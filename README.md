@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-## I'm Yash Patel - aka [hellmaster559](https://github.com/hellmaster559)
+## I'm Ash - aka [hellmaster559](https://github.com/hellmaster559)
 
 ## I'm a Student, Developer, Pentesters, and also A Gamer✌️ !
 
